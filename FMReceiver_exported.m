@@ -370,7 +370,7 @@ classdef FMReceiver_exported < matlab.apps.AppBase
             app.Image = uiimage(app.RightPanel);
             app.Image.ScaleMethod = 'fill';
             app.Image.Position = [1 6 280 284];
-            app.Image.ImageSource = '收音机音箱.jpg';
+            app.Image.ImageSource = 'Loudspeaker.jpg';
 
             % Show the figure after all components are created
             app.MortgageCalculatorUIFigure.Visible = 'on';
