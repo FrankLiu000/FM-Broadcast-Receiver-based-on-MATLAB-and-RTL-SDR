@@ -1,0 +1,4 @@
+1. FMReceiver_Exported.m，最终App Designer导出的程序，含GUI；
+2. FMReceiver_Prototype.m，为FM解调核心程序，不含GUI。
+
+1、2均可独立运行，1的界面更美观，2的思路更清晰、注释更详尽~
